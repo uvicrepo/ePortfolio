@@ -1,10 +1,10 @@
-# What is this?
+### What is this?
 This is an ePortfolio created to showcase my personal projects and other things I'm interested in.
 
-# How does this work?
+### How does this work?
 The website uses CSS & JS to display different of index.html by using Github Pages for rendering.
 
-# Wow, this is impressive. Did you do this all on your own?
+### Wow, this is impressive. Did you do this all on your own?
 Why thank you, you're very kind. Although the content was done by yours truly, I had a little help:
 
 [1] Template - https://github.com/zirafa 
